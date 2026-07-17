@@ -1,3 +1,4 @@
 main.ipynb
 .venv
 recsys
+*.pth
